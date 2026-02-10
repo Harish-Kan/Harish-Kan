@@ -59,9 +59,9 @@ Queen’s AutoDrive
 ---
 ## GitHub Activity
 
-![Stats](https://stats-github-readme.vercel.app/api?username=harishkandavell&theme=dark&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harish-Kan&show_icons=true&theme=github_dark&hide_border=true)
 
-![Languages](https://stats-github-readme.vercel.app/api/top-langs/?username=harishkandavell&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harish-Kan&layout=compact&theme=github_dark&hide_border=true)
 
 
 ---
