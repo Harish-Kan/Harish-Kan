@@ -57,12 +57,12 @@ Queen’s AutoDrive
 - Point cloud visualization and segmentation analysis using Open3D  
 
 ---
-
 ## GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=default)
+![Stats](https://stats-github-readme.vercel.app/api?username=harishkandavell&theme=dark&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=default)
+![Languages](https://stats-github-readme.vercel.app/api/top-langs/?username=harishkandavell&layout=compact&theme=dark)
+
 
 ---
 
