@@ -11,7 +11,7 @@ Expected Graduation: May 2029
 
 ## About Me
 
-I am a first-year Computing (Computer Science) student at Queen’s University with experience in computer vision, robotics perception, and software development. I am interested in building real-world systems involving machine learning, autonomous perception, and scalable software.
+I am a second-year Computing (Computer Science) student specializing in Software Design at Queen’s University with experience in computer vision, robotics perception, and software development. I am interested in building real-world systems involving machine learning, autonomous perception, and scalable software.
 
 ---
 
